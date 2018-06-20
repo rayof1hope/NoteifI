@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Note IFI</string>
+    <string name="genre">Genre</string>
+    <string name="currentlyPlaying">Currently Playing</string>
+    <string name="SongList">Song Lists</string>
+    <string name="country">Country</string>
+    <string name="Folk">Folk</string>
+    <string name="gospel">Gospel</string>
+    <string name="christian_rock">Chrsitian Rock</string>
+    <string name="rock">Rock</string>
+    <string name="disco">Disco</string>
+    <string name="classic_rock">Classic Rock</string>
+    <string name="alternative">Alternative Rock</string>
+    <string name="heavy_metal">Heavy Metal</string>
+    <string name="punk">Punk Rock</string>
+    <string name="new_wave">New Wave</string>
+    <string name="pop">Pop</string>
+    <string name="Techno">Techno</string>
+    <string name="jazz">Jazz</string>
+    <string name="soul">Soul</string>
+    <string name="Rhythm_and_Blues">Rhythm and Blues</string>
+    <string name="hip_hop">Hip Hop</string>
+    <string name="Rap">Rap</string>
+    <string name="reggae">Reggae</string>
+    <string name="Classical">Classical</string>
+    <string name="opera">Opera</string>
+    <string name="genre_click">Genre</string>
+
+</resources>
